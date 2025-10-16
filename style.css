@@ -4,14 +4,14 @@ body {
     color: #191970; 
 {
 
-  .kartu profil {
+  .kartu-profil {
       width: 400px;
       margin: 70px auto; /* 70px jarak atas/bawah, auto menengahkan kiri
       padding: 30px;
       background-color: white;
       border-radius: 20px; /* membuat sudut menjadi melengkung */
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      text-align: center; 
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan */
+      text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
 .kartu-profil img {
